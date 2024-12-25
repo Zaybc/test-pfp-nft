@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #55",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/55.png",
+  "dna": "a806dd240839948601f9b56e117e8a67c3552461",
+  "edition": 55,
+  "date": 1735123497492,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue0"
+    },
+    {
+      "trait_type": "Body",
+      "value": "happyeat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

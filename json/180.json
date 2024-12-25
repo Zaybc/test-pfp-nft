@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #180",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/180.png",
+  "dna": "71982d1ad2c3ccfd02b2ffe7c6b32d145e9cedb4",
+  "edition": 180,
+  "date": 1735123509925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "nightsky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "sweater"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

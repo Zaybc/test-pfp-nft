@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #74",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/74.png",
+  "dna": "7a294eff1968775023995dc6033a885bb280d9d3",
+  "edition": 74,
+  "date": 1735123499227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "flesh2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "aaangle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

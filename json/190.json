@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #190",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/190.png",
+  "dna": "9e3ab96437f43bed150fda26f5814c037e710313",
+  "edition": 190,
+  "date": 1735123511097,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "coolblue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "happyeat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

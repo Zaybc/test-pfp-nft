@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #53",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/53.png",
+  "dna": "f8478f72ba757dbc6f2fcc182fc23d58a1331b3a",
+  "edition": 53,
+  "date": 1735123497283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pinlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "shopper"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

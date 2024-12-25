@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #143",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/143.png",
+  "dna": "a48ab678d106bda722b3108fedad46a7a2ebb30d",
+  "edition": 143,
+  "date": 1735123506322,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "nightsky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "angle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

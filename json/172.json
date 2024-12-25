@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #172",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/172.png",
+  "dna": "9c97d347193ca4833d60135f1fd6c4332071b5b2",
+  "edition": 172,
+  "date": 1735123509143,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "fadedorange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "staring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

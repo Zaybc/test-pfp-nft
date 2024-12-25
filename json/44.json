@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #44",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/44.png",
+  "dna": "249a58e845b2582befacb8d95bea7bdbec86bff2",
+  "edition": 44,
+  "date": 1735123496478,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "fadedorange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "shopper"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

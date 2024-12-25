@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #64",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/64.png",
+  "dna": "9748416cd15d7e333b4235434719ff213e20de1a",
+  "edition": 64,
+  "date": 1735123498265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "shopper"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

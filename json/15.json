@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #15",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "c911ffb36c341ac3b1506419ddf144ac7f7411e9",
+  "edition": 15,
+  "date": 1735123493435,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "angle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

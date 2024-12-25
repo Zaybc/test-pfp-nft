@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "d9c11df792894845eadf2b95b01b680ee5270ae1",
+  "edition": 3,
+  "date": 1735123492189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pinlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "singing"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

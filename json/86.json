@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #86",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/86.png",
+  "dna": "2555721f8d848ea32984ffc2580cb8c5c8c894b1",
+  "edition": 86,
+  "date": 1735123500391,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "nightsky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "phone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #120",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/120.png",
+  "dna": "98d95a4fa4a797f81767fc3f774edc554aea5f5e",
+  "edition": 120,
+  "date": 1735123504032,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "rose"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

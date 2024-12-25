@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #178",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/178.png",
+  "dna": "e0ed34c044a5eac308db7f69c2dae0209951f7e4",
+  "edition": 178,
+  "date": 1735123509706,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "flseh1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "shopper"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

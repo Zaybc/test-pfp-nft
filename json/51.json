@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #51",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/51.png",
+  "dna": "c29c2a4251087a9f6f8bfe7190f6f941589c5f4c",
+  "edition": 51,
+  "date": 1735123497132,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "apple"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

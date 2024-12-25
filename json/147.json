@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #147",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/147.png",
+  "dna": "c2bb3d172f84c9a041d16a3ceaa97dd497d1bddd",
+  "edition": 147,
+  "date": 1735123506729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pinlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "comfort"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

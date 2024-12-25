@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #66",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/66.png",
+  "dna": "b1e64fcee6b871f344fb611d24aae9e55dfd5db4",
+  "edition": 66,
+  "date": 1735123498483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pinlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "angle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

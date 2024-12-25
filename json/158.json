@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #158",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/158.png",
+  "dna": "aab39422e0a03fda3312344a26074543da6e1382",
+  "edition": 158,
+  "date": 1735123507832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "phone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

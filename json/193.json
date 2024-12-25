@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #193",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/193.png",
+  "dna": "ff636cdbd8b892dad512e3919988ed300cf02669",
+  "edition": 193,
+  "date": 1735123511436,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "flseh1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Huuuh"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

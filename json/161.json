@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #161",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/161.png",
+  "dna": "230319f8c1dd9e3fddc27f81d571651cb671b1fb",
+  "edition": 161,
+  "date": 1735123508159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue0"
+    },
+    {
+      "trait_type": "Body",
+      "value": "demon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

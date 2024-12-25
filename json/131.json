@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #131",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/131.png",
+  "dna": "e3b57fc43cead42b32ed4b61bee4e70c82b26f99",
+  "edition": 131,
+  "date": 1735123505200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "phone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

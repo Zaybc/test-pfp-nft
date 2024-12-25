@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #148",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/148.png",
+  "dna": "54333f94794425af9157112f1e3497b60021d3a4",
+  "edition": 148,
+  "date": 1735123506828,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "quest"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

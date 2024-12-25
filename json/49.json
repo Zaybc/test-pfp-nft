@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #49",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/49.png",
+  "dna": "93aeffa814512729c90372c3f454566725d03dcc",
+  "edition": 49,
+  "date": 1735123496943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green0"
+    },
+    {
+      "trait_type": "Body",
+      "value": "singing"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
