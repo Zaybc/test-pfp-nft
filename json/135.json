@@ -1,18 +1,18 @@
 {
-  "name": "Your Collection #135",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/135.png",
-  "dna": "eee2cc7b3ae6a0b5bb6a2520369c2a8f22d04a46",
+  "name": "Warma Collection #135",
+  "description": "A Conllection of Warma's Simple Drawing",
+  "image": "https://zaybc.github.io/test-pfp-nft/images/135.png",
+  "dna": "4324229cdbaf7652090db58c9f84ea05f0c50f1e",
   "edition": 135,
-  "date": 1735123505570,
+  "date": 1735124093974,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "coolblue"
+      "value": "orange2"
     },
     {
       "trait_type": "Body",
-      "value": "singing"
+      "value": "apple"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,14 +1,14 @@
 {
-  "name": "Your Collection #26",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/26.png",
-  "dna": "d8831bd128142b85dd4682edc016d902ffe6147d",
+  "name": "Warma Collection #26",
+  "description": "A Conllection of Warma's Simple Drawing",
+  "image": "https://zaybc.github.io/test-pfp-nft/images/26.png",
+  "dna": "b4c37a08da09767373650cbbb4c67f0cfc4aaa1d",
   "edition": 26,
-  "date": 1735123494588,
+  "date": 1735124083431,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "flseh1"
+      "value": "orange0"
     },
     {
       "trait_type": "Body",
